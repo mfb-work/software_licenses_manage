@@ -1,5 +1,10 @@
 <?php
 
+
+use Illuminate\Contracts\Http\Kernel;
+use Illuminate\Foundation\Application;
+use Illuminate\Foundation\Http\Kernel as HttpKernel;
+
 /*
 |--------------------------------------------------------------------------
 | Create The Application
